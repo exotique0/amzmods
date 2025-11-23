@@ -1,20 +1,20 @@
 [
   {
-    "id": "hd_textures",
-    "name": "HD Textures",
-    "description": "Текстуры высокого разрешения для окружающего мира.",
-    "downloadUrl": "https://github.com/exotique0/amzmods/raw/refs/heads/main/bongocat.zip"
-  },
-  {
     "id": "realistic_weapons",
     "name": "Realistic Weapons",
-    "description": "Новые модели и звуки оружия.",
+    "description": "РќРѕРІС‹Рµ РјРѕРґРµР»Рё Рё Р·РІСѓРєРё РѕСЂСѓР¶РёСЏ.",
     "downloadUrl": "https://github.com/exotique0/amzmods/raw/refs/heads/main/bongocat.zip"
   },
   {
     "id": "r32_pack",
     "name": "Nissan Skyline R32 Mod",
-    "description": "Заменяет транспорт на модель Skyline R32.",
+    "description": "Р—Р°РјРµРЅСЏРµС‚ С‚СЂР°РЅСЃРїРѕСЂС‚ РЅР° РјРѕРґРµР»СЊ Skyline R32.",
+    "downloadUrl": "https://github.com/exotique0/amzmods/raw/refs/heads/main/bongocat.zip"
+  },
+  {
+    "id": "r32_pack",
+    "name": "Nissan Skyline R32 Mod",
+    "description": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ Skyline R32.",
     "downloadUrl": "https://github.com/exotique0/amzmods/raw/refs/heads/main/bongocat.zip"
   }
 ]
