@@ -1,20 +1,106 @@
-[
-  {
-    "id": "hd_textures",
-    "name": "HD Textures",
-    "description": "Текстуры высокого разрешения для окружающего мира.",
-    "downloadUrl": "https://github.com/exotique0/amzmods/raw/refs/heads/main/bongocat.zip"
-  },
-  {
-    "id": "realistic_weapons",
-    "name": "Realistic Weapons",
-    "description": "Новые модели и звуки оружия.",
-    "downloadUrl": "https://github.com/exotique0/amzmods/raw/refs/heads/main/bongocat.zip"
-  },
-  {
-    "id": "r32_pack",
-    "name": "Nissan Skyline R32 Mod",
-    "description": "Заменяет транспорт на модель Skyline R32.",
-    "downloadUrl": "https://github.com/exotique0/amzmods/raw/refs/heads/main/bongocat.zip"
-  }
-]
+{
+  "categories": [
+    {
+      "id": "graphics",
+      "name": "Графика",
+      "subcategories": [
+        {
+          "id": "graphics_common",
+          "name": "Общая графика",
+          "mods": [
+            {
+              "id": "hd_textures",
+              "name": "HD Textures",
+              "description": "Текстуры высокого разрешения для окружения и объектов.",
+              "downloadUrl": "https://github.com/exotique0/amzmods/raw/refs/heads/main/bongocat.zip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mods",
+      "name": "Модификации",
+      "subcategories": [
+        {
+          "id": "mods_skins",
+          "name": "Скины",
+          "mods": [
+            {
+              "id": "skin_pack_1",
+              "name": "Skin Pack 1",
+              "description": "Набор кастомных скинов для персонажа.",
+              "downloadUrl": "https://github.com/exotique0/amzmods/raw/refs/heads/main/bongocat.zip"
+            }
+          ]
+        },
+        {
+          "id": "mods_weapons",
+          "name": "Оружие",
+          "mods": [
+            {
+              "id": "realistic_weapons",
+              "name": "Realistic Weapons",
+              "description": "Новые модели и звуки оружия.",
+              "downloadUrl": "https://github.com/exotique0/amzmods/raw/refs/heads/main/bongocat.zip"
+            }
+          ]
+        },
+        {
+          "id": "mods_timecycles",
+          "name": "Таймциклы",
+          "mods": [
+            {
+              "id": "realistic_timecycle",
+              "name": "Realistic Timecycle",
+              "description": "Новый таймцикл с улучшенным освещением и атмосферой.",
+              "downloadUrl": "https://github.com/exotique0/amzmods/raw/refs/heads/main/bongocat.zip"
+            }
+          ]
+        },
+        {
+          "id": "mods_crosshair",
+          "name": "Прицелы",
+          "mods": [
+            {
+              "id": "minimal_crosshair",
+              "name": "Minimal Crosshair",
+              "description": "Минималистичный прицел для удобной стрельбы.",
+              "downloadUrl": "https://github.com/exotique0/amzmods/raw/refs/heads/main/bongocat.zip"
+            }
+          ]
+        },
+        {
+          "id": "mods_hud",
+          "name": "HUD",
+          "mods": [
+            {
+              "id": "clean_hud",
+              "name": "Clean HUD",
+              "description": "Чистый и минималистичный HUD без лишнего мусора.",
+              "downloadUrl": "https://github.com/exotique0/amzmods/raw/refs/heads/main/bongocat.zip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "packs",
+      "name": "Сборки",
+      "subcategories": [
+        {
+          "id": "packs_main",
+          "name": "Сборки",
+          "mods": [
+            {
+              "id": "full_pack_v1",
+              "name": "Full Pack v1",
+              "description": "Сборка: графика + оружие + HUD.",
+              "downloadUrl": "https://github.com/exotique0/amzmods/raw/refs/heads/main/bongocat.zip"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
