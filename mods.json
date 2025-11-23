@@ -2,19 +2,7 @@
   {
     "id": "hd_textures",
     "name": "HD Textures",
-    "description": "Текстуры высокого разрешения для окружающего мира.",
-    "downloadUrl": "https://github.com/exotique0/amzmods/raw/refs/heads/main/bongocat.zip"
-  },
-  {
-    "id": "realistic_weapons",
-    "name": "Realistic Weapons",
-    "description": "Новые модели и звуки оружия.",
-    "downloadUrl": "https://github.com/exotique0/amzmods/raw/refs/heads/main/bongocat.zip"
-  },
-  {
-    "id": "r32",
-    "name": "Realistic 32",
-    "description": "Новые модели и звуки оружия.",
+    "description": "Текстуры высокого разрешения...",
     "downloadUrl": "https://github.com/exotique0/amzmods/raw/refs/heads/main/bongocat.zip"
   }
 ]
