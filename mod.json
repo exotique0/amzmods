@@ -12,7 +12,7 @@
               "id": "hd_textures",
               "name": "HD Textures",
               "description": "Текстуры высокого разрешения для окружения и объектов.",
-              "longDescription": "Полное описание мода HD Textures...",
+              "longDescription": "Полное описание HD Textures...",
               "imageUrl": "https://github.com/exotique0/amzmods/blob/main/icon.png?raw=true",
               "previewUrl": "https://github.com/exotique0/amzmods/blob/main/icon.png?raw=true",
               "downloadUrl": "https://github.com/exotique0/amzmods/raw/refs/heads/main/bongocat.zip"
@@ -34,29 +34,8 @@
               "name": "Realistic Weapons",
               "description": "Новые модели и звуки оружия.",
               "longDescription": "Полное описание оружейного пака...",
-              "imageUrl": "https://your-host/weapons_small.png",
-              "previewUrl": "https://your-host/weapons_big.png",
-              "downloadUrl": "https://github.com/exotique0/amzmods/raw/refs/heads/main/bongocat.zip"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "packs",
-      "name": "Сборки",
-      "subcategories": [
-        {
-          "id": "packs_main",
-          "name": "Сборки",
-          "mods": [
-            {
-              "id": "full_pack_v1",
-              "name": "Full Pack v1",
-              "description": "Сборка: графика + оружие + HUD.",
-              "longDescription": "Полное описание сборки...",
-              "imageUrl": "https://your-host/fullpack_small.png",
-              "previewUrl": "https://your-host/fullpack_big.png",
+              "imageUrl": "https://yourcdn/weapons_small.png",
+              "previewUrl": "https://yourcdn/weapons_big.png",
               "downloadUrl": "https://github.com/exotique0/amzmods/raw/refs/heads/main/bongocat.zip"
             }
           ]
@@ -65,3 +44,4 @@
     }
   ]
 }
+
