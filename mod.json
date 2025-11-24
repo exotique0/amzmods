@@ -16,6 +16,33 @@
               "imageUrl": "https://github.com/exotique0/amzmods/blob/main/icon.png?raw=true",
               "previewUrl": "https://github.com/exotique0/amzmods/blob/main/icon.png?raw=true",
               "downloadUrl": "https://github.com/exotique0/amzmods/raw/refs/heads/main/bongocat.zip"
+            },
+            {
+              "id": "hd_123",
+              "name": "HD Textures",
+              "description": "Текстуры высокого разрешения для окружения и объектов.",
+              "longDescription": "Полное описание HD Textures...",
+              "imageUrl": "https://github.com/exotique0/amzmods/blob/main/icon.png?raw=true",
+              "previewUrl": "https://github.com/exotique0/amzmods/blob/main/icon.png?raw=true",
+              "downloadUrl": "https://github.com/exotique0/amzmods/raw/refs/heads/main/bongocat.zip"
+            },
+            {
+              "id": "hd_1234",
+              "name": "HD Textures",
+              "description": "Текстуры высокого разрешения для окружения и объектов.",
+              "longDescription": "Полное описание HD Textures...",
+              "imageUrl": "https://github.com/exotique0/amzmods/blob/main/icon.png?raw=true",
+              "previewUrl": "https://github.com/exotique0/amzmods/blob/main/icon.png?raw=true",
+              "downloadUrl": "https://github.com/exotique0/amzmods/raw/refs/heads/main/bongocat.zip"
+            },
+            {
+              "id": "hd_12345",
+              "name": "HD Textures",
+              "description": "Текстуры высокого разрешения для окружения и объектов.",
+              "longDescription": "Полное описание HD Textures...",
+              "imageUrl": "https://github.com/exotique0/amzmods/blob/main/icon.png?raw=true",
+              "previewUrl": "https://github.com/exotique0/amzmods/blob/main/icon.png?raw=true",
+              "downloadUrl": "https://github.com/exotique0/amzmods/raw/refs/heads/main/bongocat.zip"
             }
           ]
         }
